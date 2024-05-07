@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="head">
+        <h1 class="head">HEALTHY MIND, HEALTHY BODY</h1>
+        <p class="text1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, qui animi. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Atque hic nobis et rem magni architecto ducimus quisquam ullam quibusdam, beatae veritatis soluta aut autem. Ducimus consectetur quasi dolore fugit deserunt.</p>
+        <div id="end">
+            <h1 class="end">READ MORE</h1>
+        </div>
+    </div>
+    <div id="head2">
+<table>
+ <tr class="head">
+ <th>RANK</th>
+ <th>NAME</th>
+ <th class="price">POINTS</th>
+ <th>TEAM</th>
+ </tr>
+ <tr>
+ <td>1</td>
+ <td>Domenic</td>
+ <td class="price">88,110</td>
+ <td>USA</td>
+ </tr>
+ <tr class="next">
+ <td>2</td>
+ <td>Castro</td>
+ <td class="price">69,200</td>
+ <td>THAILAND</td>
+ </tr>
+ <tr>
+ <td>3</td>
+ <td>Gian</td>
+ <td class="price">28,120</td>
+ <td>PH</td>
+ </tr>
+ <tr class="next">
+    <td>2</td>
+    <td>Castro</td>
+    <td class="price">69,200</td>
+    <td>THAILAND</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    <td>Gian</td>M
+    <td class="price">28,120</td>
+    <td>PH</td>
+    </tr>
+</table>
+    </div>
+</body>
+</html>
